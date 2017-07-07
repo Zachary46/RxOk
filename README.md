@@ -1,9 +1,9 @@
-# RxBeauty
+# RxOk
 基于mvp rxjava retrofit2 搭建的框架，学习参考之用，一个可以看美女的APP
  
  
 # 下载
-https://github.com/Liberations/RxBeauty/raw/master/apk/RxBeauty.apk
+https://github.com/Zachary46/RxOk/raw/master/apk/RxOk.apk
 
 # 图片欣赏
 ![首页](https://github.com/Liberations/RxBeauty/blob/master/pic/1.png)
