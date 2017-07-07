@@ -3,7 +3,7 @@
  
  
 # 下载
-https://github.com/Zachary46/RxOk/apk/RxOk.apk
+https://github.com/Zachary46/RxOk/raw/master/apk/RxOk.apk
 
 # 图片欣赏
 ![首页](https://github.com/Zachary46/RxOk/pic/1.png)
