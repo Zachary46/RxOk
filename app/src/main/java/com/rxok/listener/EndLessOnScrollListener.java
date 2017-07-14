@@ -2,10 +2,9 @@ package com.rxok.listener;
 
 /**
  * description ：
- * project name：RxBeauty
- * author : Liberation
- * creation date: 2017/7/7 16:11
- *
+ * project name：RxOk
+ * author : Zachary
+ * creation date: 2017/7/7
  * @version 1.0
  */
 
